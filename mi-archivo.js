@@ -1,2 +1,3 @@
 //comentario 1
-alert("Hola mundo");
+alert("Hola mundo_editado");
+Console.log (“cambios en el archivo”); 
